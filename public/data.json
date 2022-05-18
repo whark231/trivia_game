@@ -1,0 +1,71 @@
+
+    {
+      "id": 0,
+      "choices": ["adam", "bob", "clyde", "john cena"],
+      "image": "https://www.wwe.com/f/styles/wwe_large/public/all/2019/10/RAW_06202016rf_1606--3d3997f53e6f3e9277cd5a67fbd8f31f.jpg",
+      "correct": 3
+    },
+    {
+      "id": 1,
+      "choices": ["Barry", "John", "Jake", "Barack Obama"],
+      "image": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwNzg5ODI4MTEw/barack-obama-12782369-1-402.jpg",
+      "correct": 3
+    },
+    {
+      "id": 2,
+      "choices": ["Hannah Montana", "Miley Cyrus", "Lady Gaga", "Selena Gomez"],
+      "image": "https://imageio.forbes.com/specials-images/imageserve/61d068989802259093ce8cd2/Tom-Ford-AW20-Show---Arrivals/960x0.jpg?fit=bounds&format=jpg&width=960",
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "choices": ["Candace", "Ligma", "Steve Jobs", "Joe"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/800px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg",
+      "correct": 2
+    },
+    {
+      "id": 4,
+      "choices": ["Dwayne Johnson", "The Rock", "Baldy Man", "The Tooth Fairy"],
+      "image": "https://i.guim.co.uk/img/media/62d058b69729ab0485c74f0130242d848d82526e/0_64_3500_2100/master/3500.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=62730e2d3138feb1cc8c8779037e853b",
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "choices": [
+        "Childish Gambino",
+        "Mike Tyson",
+        "Donald Glover",
+        "Charles Barkley"
+      ],
+      "image": "https://yt3.ggpht.com/ytc/AKedOLR54qbXPUrgKCf0tmiquuqTiYDElO_Cekw-pSCs_g=s900-c-k-c0x00ffffff-no-rj",
+      "correct": 2
+    },
+    {
+      "id": 6,
+      "choices": [
+        "Craig Douglas",
+        "Darryl Previlor",
+        "Marc Previlor",
+        "Steve Urkel"
+      ],
+      "image": "https://uploads-ssl.webflow.com/61f55f3445c6ae41dd12cec3/61f87c82935855bc69831af3_darryl.png",
+      "correct": 1
+    },
+    {
+      "id": 7,
+      "choices": ["Jake Paul", "Logan Paul", "Paul Mooney", "Paul Rudd"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNGJlMTg5NTctZDk5ZS00MWU2LTk3OWItYjNiMTNhZmI5MjE5XkEyXkFqcGdeQXVyOTE0NjgwMjY@._V1_.jpg",
+      "correct": 3
+    },
+    {
+      "id": 8,
+      "choices": ["Sonic the Hedgehog", "Markeplier", "Dat Boi", "Bofa Deez"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Dat_Boi_%28resized_50%25%29.jpg",
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "choices": ["Funny Man", "Jeff Bezos", "Meme Man", "Stonks Man"],
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/96/Meme_Man_on_transparent_background.webp",
+      "correct": 2
+    }
